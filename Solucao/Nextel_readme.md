@@ -1,9 +1,5 @@
 Nextel - Engenheiro de dados
 
-Nome: Dennis Cardoso
-Contato: dennis.cardoso@outlook.com
-telefone: (11) 9 6865-3690
-
 Ferramentas e linguagens utilizadas para desenvolvimento da solução do exercício:
 
 - Anaconda Navigator
