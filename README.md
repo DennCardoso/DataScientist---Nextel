@@ -1,6 +1,6 @@
 Nextel - Engenheiro de dados
 
-Construção de regressão logistica para identificar o melhor preço na compra de uma casa em uma determinada região.
+Construção de regressão linear para identificar o melhor preço na compra de uma casa em uma determinada região.
 
 Ferramentas e linguagens utilizadas para desenvolvimento da solução do exercício:
 
